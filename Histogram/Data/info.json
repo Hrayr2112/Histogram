@@ -1,0 +1,114 @@
+{
+    "unit_group_cuts":
+    {
+        "value":"488450",
+        "status":"on",
+        "multi": "off",
+        "child": "off"
+    },
+    "unit_group_dropsinsections":
+    {
+        "value":"479349",
+        "status":"on",
+        "multi": "off",
+        "child": "off"
+    },
+    "unit_group_hot_counter":
+    {
+        "value":"465917",
+        "status":"off",
+        "multi": "off",
+        "child": "off"
+    },
+    "unit_icam":
+    {
+        "value":"465902",
+        "status":"on",
+        "multi": "off",
+        "child": "off"
+    },
+    "unit_after_icam":
+    {
+        "value":"463248",
+        "status":"off",
+        "multi": "off",
+        "child": "on"
+    },
+    "unit_mcal":
+    {
+        "value":"464957",
+        "status":"on",
+        "multi": "on",
+        "child": "off"
+    },
+    "unit_after_mcal":
+    {
+        "value":"459576",
+        "status":"off",
+        "multi": "off",
+        "child": "on"
+    },
+    "unit_multi":
+    {
+        "value":"459680",
+        "status":"off",
+        "multi": "off",
+        "child": "on"
+    },
+    "unit_after_multi":
+    {
+        "value":"444030",
+        "status":"off",
+        "multi": "off",
+        "child": "on"
+    },
+    "unit_m320":
+    {
+        "value":"434117",
+        "status":"off",
+        "multi": "on",
+        "child": "off"
+    },
+    "unit_after_m320":
+    {
+        "value":"424162",
+        "status":"off",
+        "multi": "off",
+        "child": "off"
+    },
+    "unit_group_first_inspection":
+    {
+        "value":"465902",
+        "status":"on",
+        "multi": "off",
+        "child": "off"
+    },
+    "unit_group_last_inspection":
+    {
+        "value":"424162",
+        "status":"on",
+        "multi": "off",
+        "child": "off"
+    },
+    "unit_visual":
+    {
+        "value":"614431",
+        "status":"off",
+        "multi": "off",
+        "child": "off"
+    },
+    "pallet_packed":
+    {
+        "value":"401940",
+        "status":"off",
+        "multi": "off",
+        "child": "off"
+    },
+    "pallet_suited":
+    {
+        "value":"401940",
+        "status":"off",
+        "multi": "off",
+        "child": "off"
+    }
+}
